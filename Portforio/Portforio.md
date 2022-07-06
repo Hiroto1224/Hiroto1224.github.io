@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link]([Link]) and ![image](/image/test.png "test")
+[Link]([Link]) and ![image](https://github.com/Hiroto1224/Hiroto1224.github.io/blob/images/test.png)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
